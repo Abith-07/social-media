@@ -1,1 +1,1 @@
-# social-media
+A social media website where users can interact and share content. The website is designed to be responsive to desktop computers. Additionally, users can personalize their experience through theme customization options, allowing them to choose colors, layouts, and other visual elements to suit their preferences. This customization enhances user engagement and satisfaction with the platform.# social-media
